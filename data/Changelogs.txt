@@ -1,0 +1,3 @@
+DATE ====================
+BUGS:
+- fixed "FLEE" not working in battle

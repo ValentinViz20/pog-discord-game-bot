@@ -1,0 +1,1 @@
+1. In val battle, change it so the crit multiplier is precalculated
